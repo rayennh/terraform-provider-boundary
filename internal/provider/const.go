@@ -60,4 +60,6 @@ const (
 	ValueKey = "value"
 	// DestinationIdKey is used for common "destination_id" resource attribute
 	DestinationIdKey = "destination_id"
+	// rolePrincipalsKey is used for common "principals" resource attribute
+	rolePrincipalsKey = "principals"
 )
